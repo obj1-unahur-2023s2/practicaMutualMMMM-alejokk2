@@ -1,6 +1,6 @@
-/** First Wollok example */
-object wollok {
-	method howAreYou() {
-		return 'I am Wolloktastic!'
-	}
+class  Socio{
+method idiomaDuranteElViaje(idioma) = idioma
+method esfuerzo()= false
+method broncea()= false
+method diasDeActividad(cant)=cant
 }
